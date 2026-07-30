@@ -1,0 +1,4 @@
+numero_flotante = 270200
+numero_entero = int(numero_flotante)  
+# Resultado: 
+
